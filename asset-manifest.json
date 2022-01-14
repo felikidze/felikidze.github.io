@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c3d5541.chunk.css",
-    "main.js": "/static/js/main.901aaa7e.chunk.js",
-    "main.js.map": "/static/js/main.901aaa7e.chunk.js.map",
+    "main.css": "/static/css/main.244bf62a.chunk.css",
+    "main.js": "/static/js/main.39b849e6.chunk.js",
+    "main.js.map": "/static/js/main.39b849e6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3163b975.js",
     "runtime-main.js.map": "/static/js/runtime-main.3163b975.js.map",
     "static/js/2.53924a99.chunk.js": "/static/js/2.53924a99.chunk.js",
     "static/js/2.53924a99.chunk.js.map": "/static/js/2.53924a99.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6c3d5541.chunk.css.map": "/static/css/main.6c3d5541.chunk.css.map",
+    "static/css/main.244bf62a.chunk.css.map": "/static/css/main.244bf62a.chunk.css.map",
     "static/js/2.53924a99.chunk.js.LICENSE.txt": "/static/js/2.53924a99.chunk.js.LICENSE.txt",
     "static/media/0.718654aa.png": "/static/media/0.718654aa.png",
     "static/media/1.a05c5dfa.png": "/static/media/1.a05c5dfa.png",
@@ -29,12 +29,14 @@
     "static/media/7.926c5ddc.png": "/static/media/7.926c5ddc.png",
     "static/media/8.f3c22aeb.png": "/static/media/8.f3c22aeb.png",
     "static/media/9.5df93852.png": "/static/media/9.5df93852.png",
+    "static/media/MishaGolub.6df20912.png": "/static/media/MishaGolub.6df20912.png",
+    "static/media/Pobeda.a69c873d.png": "/static/media/Pobeda.a69c873d.png",
     "static/media/creative_logo.44944f88.png": "/static/media/creative_logo.44944f88.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3163b975.js",
     "static/js/2.53924a99.chunk.js",
-    "static/css/main.6c3d5541.chunk.css",
-    "static/js/main.901aaa7e.chunk.js"
+    "static/css/main.244bf62a.chunk.css",
+    "static/js/main.39b849e6.chunk.js"
   ]
 }
